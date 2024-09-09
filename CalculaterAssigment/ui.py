@@ -1,4 +1,4 @@
-from CalculaterAssigment.calculator import Calculator
+from calculator import Calculator
 
 def main_menu():
     print("\nWelcome to the calculator")
